@@ -1,4 +1,4 @@
-# Analsyse International Debt Statistics with SQL
+# Analzye International Debt Statistics with SQL
 
 This is a project experimenting with SQL queries in order to answer interesting questions about international debt using data from The World Bank.
 
